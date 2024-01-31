@@ -1,4 +1,4 @@
-# PROFILE SUMMARY
+# Profile Summary
 Highly accomplished professional with over 10 years of experience in customer-centric relationship management, business process re-engineering, and cross-functional team leadership. Proven expertise in Data Analysis, Project Management, and Business Analysis, adept at both Waterfall and Agile methodologies. 
 
 ## Education
@@ -22,11 +22,11 @@ Highly accomplished professional with over 10 years of experience in customer-ce
 [What i have beeen cooking](https://www.datascienceportfol.io/KayFreeman)   
 
 ## Product Management & Business Analysis Links
-- PlateDetect - Lagos State Automatic Number Plate Recognition System [Click Here](https://platedetect.lagosstate.gov.ng/)
+- PlateDetect | Lagos State Automatic Number Plate Recognition System [Click Here](https://platedetect.lagosstate.gov.ng/) |
 
-- PayVIS - Lagos State Payment platform for traffic violation [Click Here](https://payvis.ng/)
+- PayVIS | Lagos State Payment platform for traffic violation [Click Here](https://payvis.ng/) |
 
-- Lagos State Central Billing System [Click Here](https://office.lagosstate.gov.ng/)
+- Lagos State Central Billing System | [Click Here](https://office.lagosstate.gov.ng/) |
 
 ## Data Analysis
-- FutureHotel Analysis - [Click Here](https://github.com/kayfreeman/FutureHotel_ExcelProject)
+- FutureHotel Analysis | [Click Here](https://github.com/kayfreeman/FutureHotel_ExcelProject) |

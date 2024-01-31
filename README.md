@@ -20,8 +20,9 @@ https://www.datascienceportfol.io/KayFreeman
 
 ## Projects 
 ### Product Management & Business Analysis
-- PlateDetect - Lagos State Automatic Number Plate Recognition System
-- Lagos State Central Billing System
+- PlateDetect - Lagos State Automatic Number Plate Recognition System [Click Here](https://platedetect.lagosstate.gov.ng/)
+- PayVIS - Lagos State Payment platform for traffic violation [Click Here](https://payvis.ng/)
+- Lagos State Central Billing System [Click Here](https://office.lagosstate.gov.ng/)
 - Treasury Discounting Solution - NDIC (Nigeria Deposit Insurance Commission)
 
 ### Data Analysis
